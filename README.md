@@ -1,1 +1,1 @@
-# testing-training
+# odoo-sample-projects
